@@ -1,0 +1,10 @@
+<script>
+    const urlParams = new URLSearchParams(window.location.search);
+    const code = urlParams.get('code');
+    
+    if (code) {
+        document.open();
+        document.write(decodeURIComponent(code));
+        document.close();
+    }
+</script>
