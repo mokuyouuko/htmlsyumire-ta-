@@ -9,3 +9,7 @@
 - その他、法律に違反する行為
 
 これらの行為による一切の責任は使用者が負うものとします。
+
+## 使い方
+https://mokuyouuko.github.io/htmlsyumire-ta-?code=
+このcode=の後にhtmlコードを入力したら実行されます。
